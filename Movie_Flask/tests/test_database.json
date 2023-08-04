@@ -1,0 +1,27 @@
+{
+    "users": [
+      {
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@example.com",
+        "password": "hashed_password",
+        "login_id": "john.doe",
+        "contact_number": "123456789",
+        "security_question": "what is your father's name",
+        "security_answer": "Joe"
+      }
+    ],
+    "movies": [
+      {
+        "movie_name": "Movie A",
+        "theatre_name": "Theatre X",
+        "available_tickets": 100
+      },
+      {
+        "movie_name": "Movie B",
+        "theatre_name": "Theatre Y",
+        "available_tickets": 50
+      }
+    ]
+  }
+  

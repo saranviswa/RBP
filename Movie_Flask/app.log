@@ -1,0 +1,410 @@
+2023-08-03 12:50:05 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-03 12:50:06 - INFO - [33mPress CTRL+C to quit[0m
+2023-08-03 12:50:06 - INFO -  * Restarting with stat
+2023-08-03 12:50:06 - WARNING -  * Debugger is active!
+2023-08-03 12:50:06 - INFO -  * Debugger PIN: 320-758-023
+2023-08-03 12:50:39 - INFO - Received request from 
+2023-08-03 12:50:39 - INFO - 127.0.0.1 - - [03/Aug/2023 12:50:39] "[31m[1mPOST /api/v1.0/moviebooking/register HTTP/1.1[0m" 409 -
+2023-08-03 12:58:52 - INFO -  * Detected change in 'C:\\Users\\Administrator\\Desktop\\Movie_Flask\\app.py', reloading
+2023-08-03 12:58:52 - INFO -  * Restarting with stat
+2023-08-03 12:58:53 - WARNING -  * Debugger is active!
+2023-08-03 12:58:53 - INFO -  * Debugger PIN: 320-758-023
+2023-08-03 14:14:34 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-03 14:14:34 - INFO - [33mPress CTRL+C to quit[0m
+2023-08-03 14:14:34 - INFO -  * Restarting with stat
+2023-08-03 14:14:35 - WARNING -  * Debugger is active!
+2023-08-03 14:14:35 - INFO -  * Debugger PIN: 320-758-023
+2023-08-03 14:14:45 - INFO - 127.0.0.1 - - [03/Aug/2023 14:14:45] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:14:45 - INFO - 127.0.0.1 - - [03/Aug/2023 14:14:45] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:16:49 - INFO -  * Detected change in 'C:\\Users\\Administrator\\Desktop\\Movie_Flask\\app.py', reloading
+2023-08-03 14:16:49 - INFO -  * Restarting with stat
+2023-08-03 14:16:50 - WARNING -  * Debugger is active!
+2023-08-03 14:16:50 - INFO -  * Debugger PIN: 320-758-023
+2023-08-03 14:17:00 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-03 14:17:00 - INFO - [33mPress CTRL+C to quit[0m
+2023-08-03 14:17:00 - INFO -  * Restarting with stat
+2023-08-03 14:17:00 - WARNING -  * Debugger is active!
+2023-08-03 14:17:00 - INFO -  * Debugger PIN: 320-758-023
+2023-08-03 14:17:21 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:17:21 - INFO - 127.0.0.1 - - [03/Aug/2023 14:17:21] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:17:21 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:17:21 - INFO - 127.0.0.1 - - [03/Aug/2023 14:17:21] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:20:12 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-03 14:20:12 - INFO - [33mPress CTRL+C to quit[0m
+2023-08-03 14:20:12 - INFO -  * Restarting with stat
+2023-08-03 14:20:13 - WARNING -  * Debugger is active!
+2023-08-03 14:20:13 - INFO -  * Debugger PIN: 320-758-023
+2023-08-03 14:20:25 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:20:25 - INFO - 127.0.0.1 - - [03/Aug/2023 14:20:25] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:20:25 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:20:25 - INFO - 127.0.0.1 - - [03/Aug/2023 14:20:25] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:33:21 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:33:21 - INFO - 127.0.0.1 - - [03/Aug/2023 14:33:21] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:33:21 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:33:21 - INFO - 127.0.0.1 - - [03/Aug/2023 14:33:21] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:39:07 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:39:07 - INFO - 127.0.0.1 - - [03/Aug/2023 14:39:07] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:39:18 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:39:18 - INFO - 127.0.0.1 - - [03/Aug/2023 14:39:18] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:39:18 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:39:18 - INFO - 127.0.0.1 - - [03/Aug/2023 14:39:18] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:39:37 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:39:37 - INFO - 127.0.0.1 - - [03/Aug/2023 14:39:37] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:39:37 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:39:37 - INFO - 127.0.0.1 - - [03/Aug/2023 14:39:37] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:39:47 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:39:47 - INFO - 127.0.0.1 - - [03/Aug/2023 14:39:47] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:47:07 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:47:07 - INFO - 127.0.0.1 - - [03/Aug/2023 14:47:07] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:47:07 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:47:07 - INFO - 127.0.0.1 - - [03/Aug/2023 14:47:07] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:47:37 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:47:37 - INFO - 127.0.0.1 - - [03/Aug/2023 14:47:37] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:47:43 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:47:43 - INFO - 127.0.0.1 - - [03/Aug/2023 14:47:43] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 14:47:43 - INFO - response [{'movie_name': 'Barbie', 'total_tickets_allotted': 50, 'theatre_name': 'INOX', 'available_tickets': 50, 'status': 'BOOK ASAP'}, {'movie_name': 'oppenHeimer', 'total_tickets_allotted': 50, 'theatre_name': 'PVR', 'available_tickets': 50, 'status': 'BOOK ASAP'}]
+2023-08-03 14:47:43 - INFO - 127.0.0.1 - - [03/Aug/2023 14:47:43] "GET /api/v1.0/moviebooking/all HTTP/1.1" 200 -
+2023-08-03 15:02:19 - INFO - 127.0.0.1 - - [03/Aug/2023 15:02:19] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:02:25 - INFO - 127.0.0.1 - - [03/Aug/2023 15:02:25] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:02:25 - INFO - 127.0.0.1 - - [03/Aug/2023 15:02:25] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:02:35 - INFO - 127.0.0.1 - - [03/Aug/2023 15:02:35] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:07:49 - INFO - 127.0.0.1 - - [03/Aug/2023 15:07:49] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:07:57 - INFO - 127.0.0.1 - - [03/Aug/2023 15:07:57] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:07:57 - INFO - 127.0.0.1 - - [03/Aug/2023 15:07:57] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:08:04 - INFO - 127.0.0.1 - - [03/Aug/2023 15:08:04] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:08:27 - INFO - 127.0.0.1 - - [03/Aug/2023 15:08:27] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:08:27 - INFO - 127.0.0.1 - - [03/Aug/2023 15:08:27] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:08:49 - INFO - 127.0.0.1 - - [03/Aug/2023 15:08:49] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:09:52 - INFO - 127.0.0.1 - - [03/Aug/2023 15:09:52] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:10:05 - INFO - 127.0.0.1 - - [03/Aug/2023 15:10:05] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:10:20 - INFO - 127.0.0.1 - - [03/Aug/2023 15:10:20] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:11:28 - INFO - 127.0.0.1 - - [03/Aug/2023 15:11:28] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:11:40 - INFO - 127.0.0.1 - - [03/Aug/2023 15:11:40] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 415 -
+2023-08-03 15:16:48 - INFO - 127.0.0.1 - - [03/Aug/2023 15:16:48] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-03 15:16:48 - INFO - 127.0.0.1 - - [03/Aug/2023 15:16:48] "[35m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 500 -
+2023-08-03 15:16:58 - INFO - 127.0.0.1 - - [03/Aug/2023 15:16:58] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-03 15:16:58 - INFO - 127.0.0.1 - - [03/Aug/2023 15:16:58] "[35m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 500 -
+2023-08-03 15:18:48 - INFO - 127.0.0.1 - - [03/Aug/2023 15:18:48] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-03 15:18:48 - INFO - 127.0.0.1 - - [03/Aug/2023 15:18:48] "[35m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 500 -
+2023-08-03 15:20:06 - INFO -  * Detected change in 'C:\\Users\\Administrator\\Desktop\\Movie_Flask\\app.py', reloading
+2023-08-03 15:20:06 - INFO -  * Restarting with stat
+2023-08-03 15:20:07 - WARNING -  * Debugger is active!
+2023-08-03 15:20:07 - INFO -  * Debugger PIN: 320-758-023
+2023-08-03 23:45:42 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-03 23:45:42 - INFO - [33mPress CTRL+C to quit[0m
+2023-08-03 23:45:42 - INFO -  * Restarting with stat
+2023-08-03 23:45:43 - WARNING -  * Debugger is active!
+2023-08-03 23:45:43 - INFO -  * Debugger PIN: 320-758-023
+2023-08-03 23:46:28 - INFO - 127.0.0.1 - - [03/Aug/2023 23:46:28] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-03 23:46:28 - INFO - 127.0.0.1 - - [03/Aug/2023 23:46:28] "[35m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 500 -
+2023-08-04 00:07:59 - INFO -  * Detected change in 'C:\\Users\\Administrator\\Desktop\\Movie_Flask\\app.py', reloading
+2023-08-04 00:08:00 - INFO -  * Restarting with stat
+2023-08-04 00:08:01 - WARNING -  * Debugger is active!
+2023-08-04 00:08:01 - INFO -  * Debugger PIN: 320-758-023
+2023-08-04 00:08:17 - INFO -  * Detected change in 'C:\\Users\\Administrator\\Desktop\\Movie_Flask\\app.py', reloading
+2023-08-04 00:08:17 - INFO -  * Restarting with stat
+2023-08-04 00:08:18 - WARNING -  * Debugger is active!
+2023-08-04 00:08:18 - INFO -  * Debugger PIN: 320-758-023
+2023-08-04 00:08:24 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-04 00:08:24 - INFO - [33mPress CTRL+C to quit[0m
+2023-08-04 00:08:24 - INFO -  * Restarting with stat
+2023-08-04 00:08:25 - WARNING -  * Debugger is active!
+2023-08-04 00:08:25 - INFO -  * Debugger PIN: 320-758-023
+2023-08-04 00:08:39 - INFO - 127.0.0.1 - - [04/Aug/2023 00:08:39] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 00:08:39 - INFO - Entered login user api, request body ::: {'login_id': 'sara', 'password': 'sara'}
+2023-08-04 00:08:39 - WARNING - Invalid login credentials
+2023-08-04 00:08:39 - INFO - 127.0.0.1 - - [04/Aug/2023 00:08:39] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 00:09:04 - INFO - 127.0.0.1 - - [04/Aug/2023 00:09:04] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 00:09:04 - INFO - Entered login user api, request body ::: {'login_id': 'demouser@2', 'password': 'demouser@2'}
+2023-08-04 00:09:04 - WARNING - Invalid login credentials
+2023-08-04 00:09:04 - INFO - 127.0.0.1 - - [04/Aug/2023 00:09:04] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 00:09:39 - INFO - 127.0.0.1 - - [04/Aug/2023 00:09:39] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 00:09:39 - INFO - Entered login user api, request body ::: {'login_id': 'demouser2', 'password': 'demouser@2'}
+2023-08-04 00:09:39 - INFO - Login successful
+2023-08-04 00:09:39 - INFO - 127.0.0.1 - - [04/Aug/2023 00:09:39] "POST /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 00:14:04 - INFO - 127.0.0.1 - - [04/Aug/2023 00:14:04] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 00:14:04 - INFO - Entered login user api, request body ::: {'login_id': 'saras', 'password': 'ara'}
+2023-08-04 00:14:04 - WARNING - Invalid login credentials
+2023-08-04 00:14:04 - INFO - 127.0.0.1 - - [04/Aug/2023 00:14:04] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 00:14:52 - INFO - 127.0.0.1 - - [04/Aug/2023 00:14:52] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 00:14:52 - INFO - Entered login user api, request body ::: {'login_id': 'saras', 'password': 'ara'}
+2023-08-04 00:14:52 - WARNING - Invalid login credentials
+2023-08-04 00:14:52 - INFO - 127.0.0.1 - - [04/Aug/2023 00:14:52] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 00:15:03 - INFO - 127.0.0.1 - - [04/Aug/2023 00:15:03] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 00:15:03 - INFO - Entered login user api, request body ::: {'login_id': 'sara', 'password': 'sara'}
+2023-08-04 00:15:03 - WARNING - Invalid login credentials
+2023-08-04 00:15:03 - INFO - 127.0.0.1 - - [04/Aug/2023 00:15:03] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 00:36:30 - INFO - 127.0.0.1 - - [04/Aug/2023 00:36:30] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 00:36:30 - INFO - Entered login user api, request body ::: {'login_id': 'sara', 'password': 'sara'}
+2023-08-04 00:36:30 - WARNING - Invalid login credentials
+2023-08-04 00:36:30 - INFO - 127.0.0.1 - - [04/Aug/2023 00:36:30] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 00:39:55 - INFO - 127.0.0.1 - - [04/Aug/2023 00:39:55] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 00:39:55 - INFO - Entered login user api, request body ::: {'login_id': 'sara', 'password': 'sara'}
+2023-08-04 00:39:55 - WARNING - Invalid login credentials
+2023-08-04 00:39:55 - INFO - 127.0.0.1 - - [04/Aug/2023 00:39:55] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 00:40:08 - INFO - 127.0.0.1 - - [04/Aug/2023 00:40:08] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 00:40:08 - INFO - Entered login user api, request body ::: {'login_id': 'sara', 'password': 'sara'}
+2023-08-04 00:40:08 - WARNING - Invalid login credentials
+2023-08-04 00:40:08 - INFO - 127.0.0.1 - - [04/Aug/2023 00:40:08] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 00:48:47 - INFO - 127.0.0.1 - - [04/Aug/2023 00:48:47] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 00:48:47 - INFO - Entered login user api, request body ::: {'login_id': 'sara', 'password': 'sara'}
+2023-08-04 00:48:47 - WARNING - Invalid login credentials
+2023-08-04 00:48:47 - INFO - 127.0.0.1 - - [04/Aug/2023 00:48:47] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 00:50:04 - INFO - 127.0.0.1 - - [04/Aug/2023 00:50:04] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 00:50:04 - INFO - Entered login user api, request body ::: {'login_id': 'sara', 'password': 'sara'}
+2023-08-04 00:50:04 - WARNING - Invalid login credentials
+2023-08-04 00:50:04 - INFO - 127.0.0.1 - - [04/Aug/2023 00:50:04] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 01:29:40 - INFO - 127.0.0.1 - - [04/Aug/2023 01:29:40] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 01:29:40 - INFO - Entered login user api, request body ::: {'login_id': 'sara', 'password': 'sara'}
+2023-08-04 01:29:40 - WARNING - Invalid login credentials
+2023-08-04 01:29:40 - INFO - 127.0.0.1 - - [04/Aug/2023 01:29:40] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 01:35:01 - INFO - 127.0.0.1 - - [04/Aug/2023 01:35:01] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 01:35:01 - INFO - Entered login user api, request body ::: {'login_id': 'sara', 'password': 'sara'}
+2023-08-04 01:35:01 - WARNING - Invalid login credentials
+2023-08-04 01:35:01 - INFO - 127.0.0.1 - - [04/Aug/2023 01:35:01] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 01:35:16 - INFO - 127.0.0.1 - - [04/Aug/2023 01:35:16] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 01:35:16 - INFO - Entered login user api, request body ::: {'login_id': 'sara', 'password': 'sara'}
+2023-08-04 01:35:16 - WARNING - Invalid login credentials
+2023-08-04 01:35:16 - INFO - 127.0.0.1 - - [04/Aug/2023 01:35:16] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 01:40:49 - INFO - 127.0.0.1 - - [04/Aug/2023 01:40:49] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 01:40:50 - INFO - Entered login user api, request body ::: {'login_id': 'sara', 'password': 'sara'}
+2023-08-04 01:40:50 - WARNING - Invalid login credentials
+2023-08-04 01:40:50 - INFO - 127.0.0.1 - - [04/Aug/2023 01:40:50] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 01:43:11 - INFO - 127.0.0.1 - - [04/Aug/2023 01:43:11] "OPTIONS /api/v1.0/moviebooking/login HTTP/1.1" 200 -
+2023-08-04 01:43:11 - INFO - Entered login user api, request body ::: {'login_id': 'sara', 'password': 'sara'}
+2023-08-04 01:43:11 - WARNING - Invalid login credentials
+2023-08-04 01:43:11 - INFO - 127.0.0.1 - - [04/Aug/2023 01:43:11] "[31m[1mPOST /api/v1.0/moviebooking/login HTTP/1.1[0m" 401 -
+2023-08-04 11:05:03 - INFO - Entered register user api, request body :::  {'first_name': 'Demouser', 'last_name': '2', 'email': 'demouser2@gmail.com', 'login_id': 'demouser2', 'password': 'demouser@2', 'confirm_password': 'demouser@2', 'contact_number': 9876543210, 'security_question': "What is your father's name", 'security_answer': 'Robert'}
+2023-08-04 11:05:03 - WARNING - Email already registered
+2023-08-04 11:05:03 - INFO - 127.0.0.1 - - [04/Aug/2023 11:05:03] "[31m[1mPOST /api/v1.0/moviebooking/register HTTP/1.1[0m" 409 -
+2023-08-04 11:15:48 - INFO - 127.0.0.1 - - [04/Aug/2023 11:15:48] "POST /api/v1.0/moviebooking/addmovies HTTP/1.1" 200 -
+2023-08-04 11:17:16 - INFO - Entered register user api, request body :::  {'first_name': 'Demouser', 'last_name': '2', 'email': 'demouser2@gmail.com', 'login_id': 'demouser2', 'password': 'demouser@2', 'confirm_password': 'demouser@2', 'contact_number': 9876543210, 'security_question': "What is your father's name", 'security_answer': 'Robert'}
+2023-08-04 11:17:16 - WARNING - Email already registered
+2023-08-04 11:17:16 - INFO - 127.0.0.1 - - [04/Aug/2023 11:17:16] "[31m[1mPOST /api/v1.0/moviebooking/register HTTP/1.1[0m" 409 -
+2023-08-04 11:17:24 - INFO - Entered register user api, request body :::  {'first_name': 'Demouser', 'last_name': '2', 'email': 'demouser3@gmail.com', 'login_id': 'demouser2', 'password': 'demouser@2', 'confirm_password': 'demouser@2', 'contact_number': 9876543210, 'security_question': "What is your father's name", 'security_answer': 'Robert'}
+2023-08-04 11:17:24 - WARNING - Email already registered
+2023-08-04 11:17:24 - INFO - 127.0.0.1 - - [04/Aug/2023 11:17:24] "[31m[1mPOST /api/v1.0/moviebooking/register HTTP/1.1[0m" 409 -
+2023-08-04 11:17:37 - INFO - Entered register user api, request body :::  {'first_name': 'Demouser', 'last_name': '2', 'email': 'demouser54@gmail.com', 'login_id': 'demouser2', 'password': 'demouser@2', 'confirm_password': 'demouser@2', 'contact_number': 9876543210, 'security_question': "What is your father's name", 'security_answer': 'Robert'}
+2023-08-04 11:17:37 - WARNING - Login ID already taken
+2023-08-04 11:17:37 - INFO - 127.0.0.1 - - [04/Aug/2023 11:17:37] "[31m[1mPOST /api/v1.0/moviebooking/register HTTP/1.1[0m" 409 -
+2023-08-04 13:51:19 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-04 13:51:19 - INFO - [33mPress CTRL+C to quit[0m
+2023-08-04 13:51:19 - INFO -  * Restarting with stat
+2023-08-04 13:51:20 - WARNING -  * Debugger is active!
+2023-08-04 13:51:20 - INFO -  * Debugger PIN: 320-758-023
+2023-08-04 13:41:54 - INFO - 127.0.0.1 - - [04/Aug/2023 13:41:54] "[35m[1mPOST /send_message HTTP/1.1[0m" 500 -
+2023-08-04 13:43:22 - INFO - 127.0.0.1 - - [04/Aug/2023 13:43:22] "[35m[1mPOST /send_message HTTP/1.1[0m" 500 -
+2023-08-04 13:43:34 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:43:34 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:43:34 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:43:34 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:43:34 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:43:34 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:43:34 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:43:34 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:43:34 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:43:34 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:43:34 - INFO - Updating subscribed topics to: ('test_topic',)
+2023-08-04 13:43:34 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:43:34 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:43:34 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:43:34 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:43:34 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:43:35 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:43:35 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:43:35 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:43:35 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:43:35 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:43:35 - INFO - Updating subscribed topics to: ('test_topic',)
+2023-08-04 13:43:35 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-04 13:43:35 - INFO - [33mPress CTRL+C to quit[0m
+2023-08-04 13:43:35 - INFO -  * Restarting with stat
+2023-08-04 13:43:36 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:43:36 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:43:36 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:43:36 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:43:36 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:43:36 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:43:36 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:43:36 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:43:36 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:43:36 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:43:36 - INFO - Updating subscribed topics to: ('test_topic',)
+2023-08-04 13:43:36 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:43:36 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:43:36 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:43:36 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:43:36 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:43:36 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:43:36 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:43:36 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:43:36 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:43:36 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:43:36 - INFO - Updating subscribed topics to: ('test_topic',)
+2023-08-04 13:43:36 - WARNING -  * Debugger is active!
+2023-08-04 13:43:36 - INFO -  * Debugger PIN: 320-758-023
+2023-08-04 13:43:42 - INFO - 127.0.0.1 - - [04/Aug/2023 13:43:42] "[35m[1mPOST /send_message HTTP/1.1[0m" 500 -
+2023-08-04 13:43:42 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connecting> [IPv4 ('172.19.13.248', 9092)]>: connecting to 172.19.13.248:9092 [('172.19.13.248', 9092) IPv4]
+2023-08-04 13:43:42 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connecting> [IPv4 ('172.19.13.248', 9092)]>: Connection complete.
+2023-08-04 13:43:42 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2023-08-04 13:46:20 - INFO -  * Detected change in 'C:\\Users\\Administrator\\Desktop\\Movie_Flask\\app.py', reloading
+2023-08-04 13:46:20 - INFO - Closing the Kafka producer with 0 secs timeout.
+2023-08-04 13:46:20 - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2023-08-04 13:46:20 - INFO - Closing the Kafka producer with 0 secs timeout.
+2023-08-04 13:46:20 - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2023-08-04 13:46:20 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connected> [IPv4 ('172.19.13.248', 9092)]>: Closing connection. 
+2023-08-04 13:46:20 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2023-08-04 13:46:20 - INFO -  * Restarting with stat
+2023-08-04 13:46:21 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:46:21 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:46:21 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:46:21 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:46:21 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:46:21 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:46:21 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:46:21 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:46:21 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:46:21 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:46:21 - INFO - Updating subscribed topics to: ('test_topic',)
+2023-08-04 13:46:22 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:46:22 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:46:22 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:46:22 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:46:22 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:46:22 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:46:22 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:46:22 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:46:22 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:46:22 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:46:22 - INFO - Updating subscribed topics to: ('test_topic',)
+2023-08-04 13:46:22 - WARNING -  * Debugger is active!
+2023-08-04 13:46:22 - INFO -  * Debugger PIN: 320-758-023
+2023-08-04 13:46:24 - INFO - Closing the Kafka producer with 0 secs timeout.
+2023-08-04 13:46:24 - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2023-08-04 13:46:24 - INFO - Closing the Kafka producer with 0 secs timeout.
+2023-08-04 13:46:24 - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2023-08-04 13:46:24 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2023-08-04 13:46:24 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2023-08-04 13:46:25 - INFO - Closing the Kafka producer with 0 secs timeout.
+2023-08-04 13:46:25 - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2023-08-04 13:46:25 - INFO - Closing the Kafka producer with 0 secs timeout.
+2023-08-04 13:46:25 - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2023-08-04 13:46:25 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2023-08-04 13:46:25 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2023-08-04 13:46:28 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:46:28 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:46:28 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:46:29 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:46:29 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:46:29 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:46:29 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:46:29 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:46:29 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:46:29 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:46:29 - INFO - Updating subscribed topics to: ('test_topic',)
+2023-08-04 13:46:29 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:46:29 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:46:29 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:46:29 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:46:29 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:46:29 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:46:29 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:46:29 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:46:29 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:46:29 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:46:29 - INFO - Updating subscribed topics to: ('test_topic',)
+2023-08-04 13:46:29 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-04 13:46:29 - INFO - [33mPress CTRL+C to quit[0m
+2023-08-04 13:46:29 - INFO -  * Restarting with stat
+2023-08-04 13:46:30 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:46:30 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:46:30 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:46:30 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:46:30 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:46:30 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:46:30 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:46:30 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:46:30 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:46:30 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:46:30 - INFO - Updating subscribed topics to: ('test_topic',)
+2023-08-04 13:46:30 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:46:30 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:46:30 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:46:30 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:46:30 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:46:30 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:46:30 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:46:30 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:46:31 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:46:31 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:46:31 - INFO - Updating subscribed topics to: ('test_topic',)
+2023-08-04 13:46:31 - WARNING -  * Debugger is active!
+2023-08-04 13:46:31 - INFO -  * Debugger PIN: 320-758-023
+2023-08-04 13:46:34 - INFO - 127.0.0.1 - - [04/Aug/2023 13:46:34] "POST /send_message HTTP/1.1" 200 -
+2023-08-04 13:46:34 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connecting> [IPv4 ('172.19.13.248', 9092)]>: connecting to 172.19.13.248:9092 [('172.19.13.248', 9092) IPv4]
+2023-08-04 13:46:34 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connecting> [IPv4 ('172.19.13.248', 9092)]>: Connection complete.
+2023-08-04 13:46:34 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2023-08-04 13:47:31 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connecting> [IPv4 ('172.19.13.248', 9092)]>: connecting to 172.19.13.248:9092 [('172.19.13.248', 9092) IPv4]
+2023-08-04 13:47:31 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connecting> [IPv4 ('172.19.13.248', 9092)]>: Connection complete.
+2023-08-04 13:47:31 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2023-08-04 13:47:32 - INFO - Group coordinator for your_consumer_group_id is BrokerMetadata(nodeId='coordinator-0', host='172.19.13.248', port=9092, rack=None)
+2023-08-04 13:47:32 - INFO - Discovered coordinator coordinator-0 for group your_consumer_group_id
+2023-08-04 13:47:32 - INFO - Starting new heartbeat thread
+2023-08-04 13:47:32 - INFO - Revoking previously assigned partitions set() for group your_consumer_group_id
+2023-08-04 13:47:32 - INFO - <BrokerConnection node_id=coordinator-0 host=172.19.13.248:9092 <connecting> [IPv4 ('172.19.13.248', 9092)]>: connecting to 172.19.13.248:9092 [('172.19.13.248', 9092) IPv4]
+2023-08-04 13:47:32 - INFO - <BrokerConnection node_id=coordinator-0 host=172.19.13.248:9092 <connecting> [IPv4 ('172.19.13.248', 9092)]>: Connection complete.
+2023-08-04 13:47:32 - INFO - (Re-)joining group your_consumer_group_id
+2023-08-04 13:47:32 - INFO - Elected group leader -- performing partition assignments using range
+2023-08-04 13:47:32 - INFO - Successfully joined group your_consumer_group_id with generation 1
+2023-08-04 13:47:32 - INFO - Updated partition assignment: [TopicPartition(topic='test_topic', partition=0)]
+2023-08-04 13:47:32 - INFO - Setting newly assigned partitions {TopicPartition(topic='test_topic', partition=0)} for group your_consumer_group_id
+2023-08-04 13:51:29 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connecting> [IPv4 ('172.19.13.248', 9092)]>: connecting to 172.19.13.248:9092 [('172.19.13.248', 9092) IPv4]
+2023-08-04 13:51:29 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connecting> [IPv4 ('172.19.13.248', 9092)]>: Connection complete.
+2023-08-04 13:51:29 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2023-08-04 13:51:29 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connecting> [IPv4 ('172.19.13.248', 9092)]>: connecting to 172.19.13.248:9092 [('172.19.13.248', 9092) IPv4]
+2023-08-04 13:51:29 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connecting> [IPv4 ('172.19.13.248', 9092)]>: Connection complete.
+2023-08-04 13:51:29 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2023-08-04 13:51:30 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connecting> [IPv4 ('172.19.13.248', 9092)]>: connecting to 172.19.13.248:9092 [('172.19.13.248', 9092) IPv4]
+2023-08-04 13:51:30 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connecting> [IPv4 ('172.19.13.248', 9092)]>: Connection complete.
+2023-08-04 13:51:30 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2023-08-04 13:57:46 - INFO -  * Detected change in 'C:\\Users\\Administrator\\Desktop\\Movie_Flask\\app.py', reloading
+2023-08-04 13:57:46 - INFO - Closing the Kafka producer with 0 secs timeout.
+2023-08-04 13:57:46 - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2023-08-04 13:57:46 - INFO - Closing the Kafka producer with 0 secs timeout.
+2023-08-04 13:57:46 - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2023-08-04 13:57:46 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connected> [IPv4 ('172.19.13.248', 9092)]>: Closing connection. 
+2023-08-04 13:57:46 - INFO - <BrokerConnection node_id=0 host=172.19.13.248:9092 <connected> [IPv4 ('172.19.13.248', 9092)]>: Closing connection. 
+2023-08-04 13:57:46 - INFO -  * Restarting with stat
+2023-08-04 13:57:47 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:57:47 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:57:47 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:57:47 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:57:47 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:57:47 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:57:47 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:57:47 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:57:47 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:57:47 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:57:47 - INFO - Updating subscribed topics to: ('test_topic',)
+2023-08-04 13:57:47 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:57:47 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:57:47 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:57:47 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:57:47 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:57:47 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2023-08-04 13:57:47 - INFO - Probing node bootstrap-0 broker version
+2023-08-04 13:57:47 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2023-08-04 13:57:48 - INFO - Broker version identified as 2.5.0
+2023-08-04 13:57:48 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-08-04 13:57:48 - INFO - Updating subscribed topics to: ('test_topic',)
+2023-08-04 13:57:48 - WARNING -  * Debugger is active!
+2023-08-04 13:57:48 - INFO -  * Debugger PIN: 320-758-023
